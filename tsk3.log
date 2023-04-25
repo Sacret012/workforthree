@@ -1,0 +1,927 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.4.13)  25 APR 2023 22:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./tsk3.tex
+(tsk3.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30>
+(D:\programs\miktext\tex/latex/base\report.cls
+Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
+(D:\programs\miktext\tex/latex/base\size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@chapter=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(D:\programs\miktext\tex/generic/babel\babel.sty
+Package: babel 2023/03/28 3.87 The Babel package
+\babel@savecnt=\count190
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(D:\programs\miktext\tex/generic/babel\xebabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count191
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\programs\miktext\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\programs\miktext\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)
+(D:\programs\miktext\tex/latex/babel-russian\russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+))
+(D:\programs\miktext\tex/generic/babel/locale/ru\babel-russian.tex
+Package babel Info: Importing font and identification data for russian
+(babel)             from babel-ru.ini. Reported on input line 11.
+)
+(D:\programs\miktext\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(D:\programs\miktext\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(D:\programs\miktext\tex/latex/cyrillic\t2aenc.def
+File: t2aenc.def 2022/06/11 v1.0j Cyrillic encoding definition file
+)
+LaTeX Font Info:    Trying to load font information for T2A+lmr on input line 1
+12.
+LaTeX Font Info:    No file T2Almr.fd. on input line 112.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
+12.
+
+(D:\programs\miktext\tex/latex/cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+
+LaTeX Font Warning: Font shape `T2A/lmr/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 112.
+
+) (D:\programs\miktext\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\programs\miktext\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(D:\programs\miktext\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\programs\miktext\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(D:\programs\miktext\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(D:\programs\miktext\tex/latex/graphics-def\xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(D:\programs\miktext\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (D:\programs\miktext\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(D:\programs\miktext\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(D:\programs\miktext\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(D:\programs\miktext\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count192
+\Gm@cntv=\count193
+\c@Gm@tempcnt=\count194
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks19
+
+(D:\programs\miktext\tex/latex/geometry\geometry.cfg))
+(D:\programs\miktext\tex/latex/koma-script\scrextend.sty
+Package: scrextend 2022/10/12 v3.38 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+(D:\programs\miktext\tex/latex/koma-script\scrkbase.sty
+Package: scrkbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(D:\programs\miktext\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(D:\programs\miktext\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
+
+(D:\programs\miktext\tex/latex/koma-script\scrlfile-hook.sty
+Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
+
+
+(D:\programs\miktext\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+)))
+(D:\programs\miktext\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+
+(D:\programs\miktext\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(D:\programs\miktext\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(D:\programs\miktext\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(D:\programs\miktext\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+(D:\programs\miktext\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(D:\programs\miktext\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(D:\programs\miktext\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count196
+
+(D:\programs\miktext\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(D:\programs\miktext\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(D:\programs\miktext\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count197
+\c@listtotal=\count198
+\c@listcount=\count199
+\c@liststart=\count266
+\c@liststop=\count267
+\c@citecount=\count268
+\c@citetotal=\count269
+\c@multicitecount=\count270
+\c@multicitetotal=\count271
+\c@instcount=\count272
+\c@maxnames=\count273
+\c@minnames=\count274
+\c@maxitems=\count275
+\c@minitems=\count276
+\c@citecounter=\count277
+\c@maxcitecounter=\count278
+\c@savedcitecounter=\count279
+\c@uniquelist=\count280
+\c@uniquename=\count281
+\c@refsection=\count282
+\c@refsegment=\count283
+\c@maxextratitle=\count284
+\c@maxextratitleyear=\count285
+\c@maxextraname=\count286
+\c@maxextradate=\count287
+\c@maxextraalpha=\count288
+\c@abbrvpenalty=\count289
+\c@highnamepenalty=\count290
+\c@lownamepenalty=\count291
+\c@maxparens=\count292
+\c@parenlevel=\count293
+\blx@tempcnta=\count294
+\blx@tempcntb=\count295
+\blx@tempcntc=\count296
+\c@blx@maxsection=\count297
+\blx@maxsegment@0=\count298
+\blx@notetype=\count299
+\blx@parenlevel@text=\count300
+\blx@parenlevel@foot=\count301
+\blx@sectionciteorder@0=\count302
+\blx@sectionciteorderinternal@0=\count303
+\blx@entrysetcounter=\count304
+\blx@biblioinstance=\count305
+\labelnumberwidth=\skip50
+\labelalphawidth=\skip51
+\biblabelsep=\skip52
+\bibitemsep=\skip53
+\bibnamesep=\skip54
+\bibinitsep=\skip55
+\bibparsep=\skip56
+\bibhang=\skip57
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count306
+\c@maxcomprange=\count307
+\c@mincompwidth=\count308
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(D:\programs\miktext\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric-comp.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count309
+\c@savedafterword=\count310
+\c@annotator=\count311
+\c@savedannotator=\count312
+\c@author=\count313
+\c@savedauthor=\count314
+\c@bookauthor=\count315
+\c@savedbookauthor=\count316
+\c@commentator=\count317
+\c@savedcommentator=\count318
+\c@editor=\count319
+\c@savededitor=\count320
+\c@editora=\count321
+\c@savededitora=\count322
+\c@editorb=\count323
+\c@savededitorb=\count324
+\c@editorc=\count325
+\c@savededitorc=\count326
+\c@foreword=\count327
+\c@savedforeword=\count328
+\c@holder=\count329
+\c@savedholder=\count330
+\c@introduction=\count331
+\c@savedintroduction=\count332
+\c@namea=\count333
+\c@savednamea=\count334
+\c@nameb=\count335
+\c@savednameb=\count336
+\c@namec=\count337
+\c@savednamec=\count338
+\c@translator=\count339
+\c@savedtranslator=\count340
+\c@shortauthor=\count341
+\c@savedshortauthor=\count342
+\c@shorteditor=\count343
+\c@savedshorteditor=\count344
+\c@labelname=\count345
+\c@savedlabelname=\count346
+\c@institution=\count347
+\c@savedinstitution=\count348
+\c@lista=\count349
+\c@savedlista=\count350
+\c@listb=\count351
+\c@savedlistb=\count352
+\c@listc=\count353
+\c@savedlistc=\count354
+\c@listd=\count355
+\c@savedlistd=\count356
+\c@liste=\count357
+\c@savedliste=\count358
+\c@listf=\count359
+\c@savedlistf=\count360
+\c@location=\count361
+\c@savedlocation=\count362
+\c@organization=\count363
+\c@savedorganization=\count364
+\c@origlocation=\count365
+\c@savedoriglocation=\count366
+\c@origpublisher=\count367
+\c@savedorigpublisher=\count368
+\c@publisher=\count369
+\c@savedpublisher=\count370
+\c@language=\count371
+\c@savedlanguage=\count372
+\c@origlanguage=\count373
+\c@savedoriglanguage=\count374
+\c@pageref=\count375
+\c@savedpageref=\count376
+\shorthandwidth=\skip58
+\shortjournalwidth=\skip59
+\shortserieswidth=\skip60
+\shorttitlewidth=\skip61
+\shortauthorwidth=\skip62
+\shorteditorwidth=\skip63
+\locallabelnumberwidth=\skip64
+\locallabelalphawidth=\skip65
+\localshorthandwidth=\skip66
+\localshortjournalwidth=\skip67
+\localshortserieswidth=\skip68
+\localshorttitlewidth=\skip69
+\localshortauthorwidth=\skip70
+\localshorteditorwidth=\skip71
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(D:\programs\miktext\tex/latex/biblatex\blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(D:\programs\miktext\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(D:\programs\miktext\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count377
+\c@textcitetotal=\count378
+\c@textcitemaxnames=\count379
+\c@biburlbigbreakpenalty=\count380
+\c@biburlbreakpenalty=\count381
+\c@biburlnumpenalty=\count382
+\c@biburlucpenalty=\count383
+\c@biburllcpenalty=\count384
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count385
+)
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(D:\programs\miktext\tex/latex/biblatex/bbx\numeric-comp.bbx
+File: numeric-comp.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(D:\programs\miktext\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(D:\programs\miktext\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count386
+\c@bbx:relatedtotal=\count387
+)))
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(D:\programs\miktext\tex/latex/biblatex/cbx\numeric-comp.cbx
+File: numeric-comp.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count388
+\c@cbx@tempcntb=\count389
+\c@cbx@tempcntc=\count390
+\c@cbx@tempcntd=\count391
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(D:\programs\miktext\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(D:\programs\miktext\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-03-30 L3 programming layer (loader) 
+
+(D:\programs\miktext\tex/latex/l3backend\l3backend-xetex.def
+File: l3backend-xetex.def 2023-03-30 L3 backend support: XeTeX
+\g__graphics_track_int=\count392
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count393
+\g__pdf_backend_annotation_int=\count394
+\g__pdf_backend_link_int=\count395
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2023-03-30 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(D:\programs\miktext\tex/latex/biblatex\blx-case-expl3.sty
+(D:\programs\miktext\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2023-01-16 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count396
+\@quotereset=\count397
+
+LaTeX Warning: Unused global option(s):
+    [14pt].
+
+(tsk3.aux)
+\openout1 = `tsk3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+4.
+ (D:\programs\miktext\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Info: Redefining \th on input line 14.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 483.69687pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-15.36449pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=28.45274pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.59996pt plus 5.59938pt minus 2.80058pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package biblatex Info: Trying to load language 'russian'...
+Package biblatex Info: ... file 'russian.lbx' found.
+(D:\programs\miktext\tex/latex/biblatex/lbx\russian.lbx
+File: russian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(D:\programs\miktext\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `tsk3.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'tsk3.bbl' found.
+ (tsk3.bbl)
+Package biblatex Info: Reference section=0 on input line 14.
+Package biblatex Info: Reference segment=0 on input line 14.
+
+Глава 1.
+Missing character: There is no Г in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no А in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no х in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no А in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no В in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no Т in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no В in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no А in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no В in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no Т in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no А in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no х in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ю in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ю in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no х in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no х in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ю in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no Р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no э in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no г in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ю in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no б in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no х in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ю in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no х in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no х in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ц in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ж in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ш in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+File: ./images//cudaOne.png Graphic file (type bmp)
+<./images//cudaOne.png>
+Missing character: There is no Р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no Р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman12-regular]:mapping=tex-text;!
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9.79996> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+[1
+
+
+] (tsk3.aux
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7
+.
+ (D:\programs\miktext\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package logreq Info: Writing requests to 'tsk3.run.xml'.
+\openout1 = `tsk3.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 12231 strings out of 411464
+ 229664 string characters out of 5823090
+ 1845290 words of memory out of 5000000
+ 32350 multiletter control sequences out of 15000+600000
+ 517807 words of font info for 45 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 108i,5n,106p,679b,3887s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on tsk3.pdf (1 page).
