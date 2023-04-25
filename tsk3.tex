@@ -1,0 +1,38 @@
+\documentclass[a4paper, 14pt]{report}
+\usepackage[english, russian]{babel}
+\usepackage[T2A]{fontenc}  % кодировка шрифта (кириллица)
+\usepackage{graphicx}  % для работы с графикой
+\graphicspath{{./images/}}
+\usepackage[utf8]{inputenc}  % подключает UTF-8
+\usepackage{setspace}  % интервалы
+\onehalfspacing
+\usepackage[left=30mm, top=20mm, right=10mm, bottom=20mm, nohead, footskip=10mm]{geometry}  % отступы
+\usepackage[fontsize=14pt]{scrextend}  % размер текста
+\usepackage[backend=biber,bibencoding=utf8,sorting=nty,maxcitenames=2,style=numeric-comp]{biblatex}  % список литературы
+\addbibresource{bibliography.bib}
+
+\begin{document}
+	\chapter{Аппаратные средства вычислительной техники (АСВТ)}
+	\section{Архитектура процессоров}
+	Архитектура процессоров является ключевым элементом в аппаратных средствах вычислительной техники. Рассмотрение этой главы включает в себя описание основных компонентов процессора, таких как регистры, арифметико-логическое устройство, устройство управления и кэш-память. Главное внимание уделяется архитектуре операционной системы и ее взаимодействию с аппаратными средствами.(\ref{cuda2})
+	
+	\begin{figure}[h]
+		\centering
+		\includegraphics[scale=0.7]{cuda}
+		\caption{Продукция от Nvidia}
+		\label{cuda2}
+	\end{figure}
+
+	 Формула для вычисления скалярного произведения двух векторов X и Y с применением CUDA:(\ref{form2})
+	
+	\begin{equation}
+		sum = 0for i = 1 to N
+    sum += X[i] * Y[i]return sum
+		\label{form2}
+	\end{equation}
+	
+	
+	
+	
+	
+\end{document}
