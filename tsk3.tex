@@ -47,6 +47,23 @@
 		int threadId = blockIdx.x *blockDim.x + threadIdx.x;
 		\label{form2}
 	\end{equation}
+
+		\section{Периферийные устройства}
+	К периферийным устройствам относятся все устройства в компьютере, которые не являются частью основного блока. Такими устройствами являются мониторы, клавиатуры, мыши, сканеры, принтеры и т.д. В этой главе рассматриваются основные принципы работы периферийных устройств и их взаимодействие с компьютером. (\ref{cuda3})
+	
+	\begin{figure}[h]
+		\centering
+		\includegraphics[scale=0.7]{ap.png}
+		\caption{Периферия}
+		\label{cuda3}
+	\end{figure}
+	
+	Формула для вычисления необходимого количества блоков:(\ref{form3})
+	
+	\begin{equation}
+		int numBlock = (numThreads + numThreadsPerBlock - 1) / numThredsPerBlock
+		\label{form3}
+	\end{equation}
 	
 	
 	
