@@ -10,6 +10,7 @@
 \usepackage[fontsize=14pt]{scrextend}  % размер текста
 \usepackage[backend=biber,bibencoding=utf8,sorting=nty,maxcitenames=2,style=numeric-comp]{biblatex}  % список литературы
 \addbibresource{bibliography.bib}
+\usepackage{listings}
 
 \begin{document}
 	\chapter{Аппаратные средства вычислительной техники (АСВТ)}
@@ -22,7 +23,7 @@
 		\caption{Рассматриваемые компоненты}
 		\label{cuda1}
 	\end{figure}
-
+	
 	Формула для вычисления значения функции на элементах вектора X с использованием параллельного вычисления:(\ref{form1})
 	
 	\begin{equation}
@@ -30,7 +31,22 @@
 		\label{form1}
 	\end{equation}
 	
+	\section{Архитектура процессора}
+	Архитектура процессоров является ключевым элементом в аппаратных средствах вычислительной техники. Рассмотрение этой главы включает в себя описание основных компонентов процессора, таких как регистры, арифметико-логическое устройство, устройство управления и кэш-память. Главное внимание уделяется архитектуре операционной системы и ее взаимодействию с аппаратными средствами.(\ref{cuda2})
 	
+	\begin{figure}[h]
+		\centering
+		\includegraphics[scale=0.7]{cuda.png}
+		\caption{Логотип NVIDIA}
+		\label{cuda2}
+	\end{figure}
+	
+	Формула для вычисления глобального номера нити в сетке:(\ref{form2})
+	
+	\begin{equation}
+		int threadId = blockIdx.x *blockDim.x + threadIdx.x;
+		\label{form2}
+	\end{equation}
 	
 	
 	
